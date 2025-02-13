@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/Camera.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/Camera.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/CameraFactory.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/CameraFactory.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/CataCamera.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/CataCamera.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/EquidistantCamera.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/EquidistantCamera.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/PinholeCamera.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/PinholeCamera.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/PinholeFullCamera.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/PinholeFullCamera.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/ScaramuzzaCamera.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/camera_models/ScaramuzzaCamera.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/camodocal/gpl/gpl.cc.o"
+  "CMakeFiles/demo_mapping.dir/camodocal/gpl/gpl.cc.o.d"
+  "CMakeFiles/demo_mapping.dir/demo/demo_mapping.cpp.o"
+  "CMakeFiles/demo_mapping.dir/demo/demo_mapping.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/demo/main_phase_mapping.cpp.o"
+  "CMakeFiles/demo_mapping.dir/demo/main_phase_mapping.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/gv_tools/gv_utils.cpp.o"
+  "CMakeFiles/demo_mapping.dir/gv_tools/gv_utils.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/gv_tools/ipm_processer.cpp.o"
+  "CMakeFiles/demo_mapping.dir/gv_tools/ipm_processer.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/roadlib/gviewer.cpp.o"
+  "CMakeFiles/demo_mapping.dir/roadlib/gviewer.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/roadlib/roadlib.cpp.o"
+  "CMakeFiles/demo_mapping.dir/roadlib/roadlib.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/roadlib/roadlib_map.cpp.o"
+  "CMakeFiles/demo_mapping.dir/roadlib/roadlib_map.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/roadlib/roadlib_optim.cpp.o"
+  "CMakeFiles/demo_mapping.dir/roadlib/roadlib_optim.cpp.o.d"
+  "CMakeFiles/demo_mapping.dir/roadlib/visualization.cpp.o"
+  "CMakeFiles/demo_mapping.dir/roadlib/visualization.cpp.o.d"
+  "demo_mapping"
+  "demo_mapping.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/demo_mapping.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
